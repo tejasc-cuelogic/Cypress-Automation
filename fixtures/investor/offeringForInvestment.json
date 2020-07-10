@@ -1,0 +1,14 @@
+{
+  "offeringCF": {
+    "slug": "cypress-cf-type-test-offering"
+  },
+  "offering506C": {
+    "slug": "ui-offering"
+  },
+  "offering506B": {
+    "slug": "new-reg-b-offering"
+  },
+  "parallelOffering": {
+    "slug": "new-parallel"
+  }
+}
